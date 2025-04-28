@@ -1,9 +1,5 @@
 package com.goi.aadharService.service;
 
-import com.goi.aadharService.dto.UserRequest;
-import com.goi.aadharService.dto.UserResponse;
-import com.goi.aadharService.exception.AadharServiceException;
-import com.goi.aadharService.exception.ExceptionConstants;
 import org.springframework.stereotype.Service;
 
 @Service

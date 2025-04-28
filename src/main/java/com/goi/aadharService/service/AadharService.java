@@ -1,7 +1,5 @@
 package com.goi.aadharService.service;
 
-import com.goi.aadharService.dto.UserRequest;
-import com.goi.aadharService.dto.UserResponse;
 import org.springframework.stereotype.Service;
 
 @Service
